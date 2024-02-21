@@ -1,5 +1,8 @@
-# zkapp-Merkle
-"Merkle Map" zero-knowledge example
+# zkapp-merkle
+"Merkle Map" zero-knowledge **example for Launchpad**
+
+![diagram(33)](https://github.com/virjilakrum/zkapp-merkle/assets/158029357/d787910d-7923-46c6-a812-6d728ec47914)
+
 To summarize the project:
 
     ZK-Apps: A type of application that uses ZK-SNARKs (zero-knowledge proofs) to improve privacy and security.
