@@ -95,7 +95,6 @@ export class HasMerkleMapContract extends SmartContract {
 
     key.assertEquals(keyToChange);
 
-    // compute the root after incrementing
     const [ rootAfter, _ ] = keyWitness.computeRootAndKey(valueBefore.add(incrementAmount));
 
     // set the new root
